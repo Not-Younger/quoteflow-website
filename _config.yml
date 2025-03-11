@@ -46,11 +46,11 @@ features                                  :
 
   - title                                 : Scroll Through Your Quote Feed
     description                           : Easily browse and reflect on the quotes you've saved from your books in a personalized, scrollable feed.
-    fontawesome_icon_name                 : house
+    fontawesome_icon_name                 : rectangle-list
 
   - title                                 : Add Books by ISBN or Online
     description                           : Quickly add books by scanning their ISBN or searching for them online, so you can grow your library with ease.
-    fontawesome_icon_name                 : magnifying-glass
+    fontawesome_icon_name                 : barcode
 
   - title                                 : Organize with Collections
     description                           : Sort books into custom collections and add tags to group your favorite quotes for quick access.
