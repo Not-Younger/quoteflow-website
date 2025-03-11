@@ -36,41 +36,37 @@ mastodon_link                             :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Track Your Reading Journey
+    description                           : Easily manage books you've read, are currently reading, or plan to read. Organize your reading list effortlessly.
+    fontawesome_icon_name                 : book
     
-  - title                                 : iPhone Device Preview
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
-    fontawesome_icon_name                 : mobile
+  - title                                 : Capture Favorite Quotes
+    description                           : Save memorable quotes from your books and revisit them anytime in your personal quote feed.
+    fontawesome_icon_name                 : quote-left
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
-    fontawesome_icon_name                 : play-circle
+  - title                                 : Scroll Through Your Quote Feed
+    description                           : Easily browse and reflect on the quotes you've saved from your books in a personalized, scrollable feed.
+    fontawesome_icon_name                 : house
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Add Books by ISBN or Online
+    description                           : Quickly add books by scanning their ISBN or searching for them online, so you can grow your library with ease.
+    fontawesome_icon_name                 : magnifying-glass
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Organize with Collections
+    description                           : Sort books into custom collections and add tags to group your favorite quotes for quick access.
+    fontawesome_icon_name                 : folder
+
+  - title                                 : Set Reading Reminders
+    description                           : Stay on top of your reading goals by setting reminders to keep you motivated and on track.
+    fontawesome_icon_name                 : bell
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : Widgets for Quick Access
+    description                           : Access your books and quotes right from your home screen with convenient widgets that keep your reading at your fingertips.
+    fontawesome_icon_name                 : bolt
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  - title                                 : Manage Your Quotes with Tags
+    description                           : Organize your favorite quotes by adding custom tags, making it simple to group and find them when you need inspiration.
+    fontawesome_icon_name                 : tags
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
