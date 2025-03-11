@@ -70,7 +70,7 @@ features                                  :
 
   - title                                 : Continuous Development from a Single Developer
     description                           : QuoteFlow is a passion project developed by a single developer, so you can expect regular updates and improvements.
-    fontawesome_icon_name                 : tags
+    fontawesome_icon_name                 : star
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
