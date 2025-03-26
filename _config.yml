@@ -68,7 +68,7 @@ features                                  :
     description                           : Organize your favorite quotes by adding custom tags, making it simple to group and find them when you need inspiration.
     fontawesome_icon_name                 : tags
 
-  - title                                 : Continuous Development from a Single Developer
+  - title                                 : Continuous Development
     description                           : QuoteFlow is a passion project developed by a single developer, so you can expect regular updates and improvements.
     fontawesome_icon_name                 : star
 
