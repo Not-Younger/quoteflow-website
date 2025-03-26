@@ -13,7 +13,7 @@ presskit_download_link                    :                                     
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : QuoteFlow                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 : Free                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : The ultimate tool for book lovers and quote enthusiasts! Track books you're reading, plan what to read next, and revisit the ones you've completed. Save memorable quotes from your favorite books, organize them with tags, and view them in your personalized feed.                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_description                           : The ultimate tool for book lovers and quote enthusiasts! Track your books and quotes all in one app!                                   # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
@@ -53,7 +53,7 @@ features                                  :
     fontawesome_icon_name                 : barcode
 
   - title                                 : Organize with Collections
-    description                           : Sort books into custom collections and add tags to group your favorite quotes for quick access.
+    description                           : Sort books into custom collections for easy management of your books.
     fontawesome_icon_name                 : folder
 
   - title                                 : Set Reading Reminders
