@@ -35,6 +35,25 @@ Abnormal and formidable against much the before well improper more spent far her
 ________
 <br> -->
 
+### `Latest`
+# **Version 2.0**
+We’ve been hard at work — this update brings a fresh experience and a more polished app all around:
+
+- Revamped the entire app with a cleaner, faster, and more intuitive design
+- Major performance improvements across the board
+- Squashed a ton of bugs to make everything run more smoothly
+
+#### What's New
+- Hide individual quotes from the feed
+- Hide all of a books quotes from the feed
+- Lock the color scheme of the app to light or dark
+- New Logo and colors!
+- Updated searching feature with prefetching capabilities
+- New quote sorting options
+- And more!
+
+<br>
+
 ### `Initial Release`
 # **Version 1.0**
 Introducing QuoteFlow – the ultimate app for book lovers! With QuoteFlow, you can easily track the books you've read, the ones you're currently reading, and the books you want to read. Capture and organize your favorite quotes for each book, and scroll through them in your personal quote feed. Add books manually or by scanning their ISBN, and keep everything organized by sorting books into collections and adding tags to group your quotes. QuoteFlow also offers reading reminders and widgets for quick access to your books and quotes. All this, with no account or sign-up required!
