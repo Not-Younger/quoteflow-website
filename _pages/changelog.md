@@ -45,7 +45,7 @@ We’ve been hard at work — this update brings a fresh experience and a more p
 
 #### What's New
 - Hide individual quotes from the feed
-- Hide all of a books quotes from the feed
+- Hide all of a book's quotes from the feed
 - Lock the color scheme of the app to light or dark
 - New Logo and colors!
 - Updated searching feature with prefetching capabilities
